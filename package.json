@@ -1,0 +1,39 @@
+{
+  "name": "node4devs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:staged": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lavarda/node4devs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lavarda/node4devs/issues"
+  },
+  "homepage": "https://github.com/Lavarda/node4devs#readme",
+  "dependencies": {
+    "@types/node": "^18.7.6",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.7",
+    "@typescript-eslint/eslint-plugin": "^5.33.1",
+    "eslint": "^8.22.0",
+    "eslint-config-standard-with-typescript": "^22.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.4",
+    "eslint-plugin-promise": "^6.0.0",
+    "husky": "^8.0.1",
+    "jest": "^28.1.3",
+    "lint-staged": "^13.0.3",
+    "ts-jest": "^28.0.8",
+    "typescript": "^4.7.4"
+  }
+}
